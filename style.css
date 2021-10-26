@@ -95,3 +95,13 @@ section{
 .sales{
     background-color: rgb(151, 196, 27);
 }
+
+.blocco2 summary{
+    padding:10px;
+    font-family: fantasy;
+    font-size: 18px;
+}
+
+.blocco2 img{
+    padding:0 10px;
+}
