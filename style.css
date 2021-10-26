@@ -55,3 +55,81 @@ body{
 section{
     font-weight: bold;
 }
+
+.editorial{
+    background-color: deepskyblue;
+    border-radius: 0 20px 20px;
+    border: 1px solid gray;
+    color: white;
+    display: inline-block;
+    width: 75px;
+    height: 22px;
+    text-align: center;
+    margin-left: 5px;
+    border: 0px;
+}
+
+.q1goals{
+    background-color: rgb(165, 104, 223);
+    border-radius: 0 20px 20px;
+    border: 1px solid gray;
+    color: white;
+    display: inline-block;
+    width: 75px;
+    height: 22px;
+    text-align: center;
+    margin-left: 5px;
+    border: 0px;
+}
+
+.recruiting{
+    background-color: deepskyblue;
+    border-radius: 0 20px 20px;
+    border: 1px solid rgb(30, 173, 118);
+    color: white;
+    display: inline-block;
+    width: 75px;
+    height: 22px;
+    text-align: center;
+    margin-left: 5px;
+    border: 0px;
+}
+
+.mobile{
+    background-color: rgb(228, 179, 74);
+    border-radius: 0 20px 20px;
+    border: 1px solid gray;
+    color: white;
+    display: inline-block;
+    width: 75px;
+    height: 22px;
+    text-align: center;
+    margin-left: 5px;
+    border: 0px;
+}
+
+.website{
+    background-color: rgb(111, 13, 114);
+    border-radius: 0 20px 20px;
+    border: 1px solid gray;
+    color: white;
+    display: inline-block;
+    width: 75px;
+    height: 22px;
+    text-align: center;
+    margin-left: 5px;
+    border: 0px;
+}
+
+.sales{
+    background-color: rgb(151, 196, 27);
+    border-radius: 0 20px 20px;
+    border: 1px solid gray;
+    color: white;
+    display: inline-block;
+    width: 75px;
+    height: 22px;
+    text-align: center;
+    margin-left: 5px;
+    border: 0px;
+}
