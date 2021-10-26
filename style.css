@@ -4,3 +4,30 @@
     padding: 0;
 }
 
+#logo{
+    vertical-align: top;
+}
+
+body{
+    background-color: rgb(221, 221, 221);
+}
+
+.blocco1{
+    background-color: white;
+    padding: 10px 0;
+}
+
+.toboolist{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.blocco2{
+    width: 65%;
+    background-color: white;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 20
+px
+;
+}
